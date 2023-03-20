@@ -6,7 +6,7 @@ match_events.csv
 score_board.csv
 *.dat
 *copy.py
-*version*
+*_version*
 *DESKTOP*
 
 

@@ -24,8 +24,8 @@ If any problems, feel free to connect with me
 >>>>>>> 6367afa (submission)
 
 参考论文与版本：
-+ autotrader_pairstrading.py: 尝试利用配对交易，论文为：
-+ autotrader.py: 为我们的最终版本，直接通过提供流动性从 mini flash crashes 获利，论文为：
++ autotrader_pairstrading.py: 尝试利用配对交易，论文为：Market Making and Mean Reversion
++ autotrader.py: 为我们的最终版本，直接通过提供流动性从 mini flash crashes 获利，论文为：High Frequency Trading and Mini Flash Crashes
 
 <<<<<<< HEAD
 To learn more about the competition, visit [readytradergo.optiver.com]

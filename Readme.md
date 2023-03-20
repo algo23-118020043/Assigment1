@@ -1,9 +1,5 @@
 # Ready Trader Go
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6367afa (submission)
 ## MFE5210 Assigment1
 任务详情描述：
 + 这是我的5210第一次作业，我尝试对高频市场，订单数据的微观特性进行研究
@@ -11,29 +7,12 @@
 + 该论文框架是agent-based回测，在我们需要下订单抢单的情况下，该框架相比于传统因子回测框架假设一定能后买入具有更准确地衡量效果。
 + taker手续费为 2bps，maker手续费为 -1bps（为激励做市商）。但我们的主要利润并不来源于此。
 + 本次作业的尝试方向是 High Freq Trading。
-<<<<<<< HEAD
 
 参考论文与版本：
 + autotrader_pairstrading.py: 尝试利用配对交易，论文为：Market Making and Mean Reversion
 + autotrader.py: 为我们的最终版本，直接通过提供流动性从 mini flash crashes 获利，论文为：High Frequency Trading and Mini Flash Crashes
 
 If any problems, feel free to connect with me
-=======
-## IT'S READY TRADER GO TIME
-=======
->>>>>>> 6367afa (submission)
-
-参考论文与版本：
-+ autotrader_pairstrading.py: 尝试利用配对交易，论文为：Market Making and Mean Reversion
-+ autotrader.py: 为我们的最终版本，直接通过提供流动性从 mini flash crashes 获利，论文为：High Frequency Trading and Mini Flash Crashes
-
-<<<<<<< HEAD
-To learn more about the competition, visit [readytradergo.optiver.com]
-(https://readytradergo.optiver.com).
->>>>>>> ac85c84 (first)
-=======
-If any problems, feel free to connect with me
->>>>>>> 6367afa (submission)
 
 ## How to start
 create a new Env to run
@@ -55,24 +34,10 @@ pip install scipy==1.10.1
 pip install PySide6
 ```
 
-<<<<<<< HEAD
-<<<<<<< HEAD
 How to run（please cd to your path）
 ```shell
 conda activate OptiverSys
 python3.11 rtg.py run autotrader.py
-=======
-How to run
-```shell
-conda activate OptiverSys
-python3 rtg.py run autotrader.py
->>>>>>> ac85c84 (first)
-=======
-How to run（please cd to your path）
-```shell
-conda activate OptiverSys
-python3.11 rtg.py run autotrader.py
->>>>>>> 6367afa (submission)
 ```
 
 ## Getting started

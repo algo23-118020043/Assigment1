@@ -1,5 +1,6 @@
 # Ready Trader Go
 
+<<<<<<< HEAD
 ## MFE5210 Assigment1
 任务详情描述：
 + 这是我的5210第一次作业，我尝试对高频市场，订单数据的微观特性进行研究
@@ -13,6 +14,17 @@
 + autotrader.py: 为我们的最终版本，直接通过提供流动性从 mini flash crashes 获利，论文为：High Frequency Trading and Mini Flash Crashes
 
 If any problems, feel free to connect with me
+=======
+## IT'S READY TRADER GO TIME
+
+Welcome to the ultimate team student trading competition. Competitors get to
+learn all the fundamentals of trading and truly test their coding and analytical
+skills. The aim is to build and optimise a trading algorithm that outperforms
+all others on a virtual exchange.
+
+To learn more about the competition, visit [readytradergo.optiver.com]
+(https://readytradergo.optiver.com).
+>>>>>>> ac85c84 (first)
 
 ## How to start
 create a new Env to run
@@ -34,10 +46,17 @@ pip install scipy==1.10.1
 pip install PySide6
 ```
 
+<<<<<<< HEAD
 How to run（please cd to your path）
 ```shell
 conda activate OptiverSys
 python3.11 rtg.py run autotrader.py
+=======
+How to run
+```shell
+conda activate OptiverSys
+python3 rtg.py run autotrader.py
+>>>>>>> ac85c84 (first)
 ```
 
 ## Getting started
